@@ -12,4 +12,5 @@ Flutter Developer
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic&logo=firebase)
 ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C) 
 ![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C)
-![Angular](https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
