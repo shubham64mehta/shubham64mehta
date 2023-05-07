@@ -12,4 +12,4 @@ Flutter Developer
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic&logo=firebase)
 ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C) 
 ![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C)
-![Angular]([https://img.shields.io/badge/-C++-black?style=plastic&logo=C](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAngular_full_color_logo.svg&psig=AOvVaw3B_yDbYfvp1oyw4R4qPX4m&ust=1683537662419000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjSlNXw4v4CFQAAAAAdAAAAABAD))
+![Angular]
