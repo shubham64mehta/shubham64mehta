@@ -1,6 +1,6 @@
 Hello! 
-I am Shubham Mehta. I'm currently pursuing my bachelor's degree majoring in computer science from SRM Institute of Science and Technology.
-Flutter Developer
+I am Shubham Mehta. Completed my bachelor's degree majoring in computer science from SRM Institute of Science and Technology.
+React.js||Node.js||Gremlin Query Language||SQL||GraphDB||Angular
 
  ## How to reach me
 
@@ -10,7 +10,6 @@ Flutter Developer
    ## 🖥 Technologies and Languages
    
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic&logo=firebase)
-![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C) 
 ![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
