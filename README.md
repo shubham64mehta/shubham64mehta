@@ -11,5 +11,5 @@ React.js||Node.js||Gremlin Query Language||SQL||GraphDB
    
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic&logo=firebase)
 ![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C)
-![React.JS]([https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge))
+![React.JS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
