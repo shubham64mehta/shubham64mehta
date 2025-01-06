@@ -1,6 +1,6 @@
 Hello! 
 I am Shubham Mehta. Completed my bachelor's degree majoring in computer science from SRM Institute of Science and Technology.
-React.js||Node.js||Gremlin Query Language||SQL||GraphDB||Angular
+React.js||Node.js||Gremlin Query Language||SQL||GraphDB
 
  ## How to reach me
 
@@ -11,5 +11,5 @@ React.js||Node.js||Gremlin Query Language||SQL||GraphDB||Angular
    
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic&logo=firebase)
 ![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React.JS]([https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge))
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
